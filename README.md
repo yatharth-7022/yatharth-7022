@@ -36,7 +36,7 @@ I'm currently focused on creating high-performance apps using **JavaScript**, **
 
 📌 Currently exploring backend development and deployment workflows using **PostgreSQL**, **pgAdmin**, and **Netlify**.  
 
-🚀 Always up for collaborative projects and innovation!
+🚀 Always up for collaborative projects and innovation !
 
 ---
 
